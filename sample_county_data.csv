@@ -1,0 +1,4 @@
+FIPS,State,County,Society_HEALTH_LengthofLife,Society_HEALTH_QualityofLife,Society_WEALTH_MedianHouseholdIncome,Society_EDUCATIONINDEX_HighSchoolCompletionRate,Economy_EMPLOYMENT_UnemploymentRate,Nature_PLANET_AirQualityindexPM2.5
+01001,Alabama,Autauga,78.5,85.2,55000,88.5,4.2,8.5
+01003,Alabama,Baldwin,79.2,87.1,62000,91.2,3.8,9.2
+01005,Alabama,Barbour,76.8,82.3,42000,84.7,6.1,7.8
